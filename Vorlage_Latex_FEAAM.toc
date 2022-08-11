@@ -1,0 +1,4 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Erster Abschnitt}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Erster Unterabschnitt}{3}{subsection.1.1}%
+\contentsline {section}{References}{4}{section*.2}%
